@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: OWASP Cluj
-tags: example-tag
 level: 0
 
 region: Europe
@@ -14,8 +13,7 @@ region: Europe
 
 ## Welcome to the OWASP Cluj-Napoca Chapter Homepage
 
-[Click here to join our mailing
-list.](http://lists.owasp.org/mailman/listinfo/owasp-Cluj)
+[Click here to join our mailing list.](https://groups.google.com/a/owasp.org/forum/#!overview)
 
 
 Follow us on [Twitter.](https://twitter.com/OWASPCluj)
@@ -65,10 +63,35 @@ Next event:
 For details please check [Upcoming
 Events](https://www.owasp.org/index.php/Cluj#tab=Upcoming_events)\!
 
-# Upcoming events
+# Recent events
 
-[Please see our Meetup page for more details and to register as
-attendee](http://www.meetup.com/OWASP-Cluj-Napoca-Security-Meetup/?scroll=true)
+[Please see our Meetup page for more details and to register as attendee](http://www.meetup.com/OWASP-Cluj-Napoca-Security-Meetup/?scroll=true)
+
+## OWASP + Riverbed - All Day DevOps - Viewing Party
+
+POWERED BY **Riverbed Cluj-Napoca**
+> snacks and drinks on the house
+
+![OWASP AllDayDevops Riverbed Cluj-Napoca](https://raw.githubusercontent.com/OWASP/www-chapter-cluj/master/assets/images/OWASP-Riverbed.jpeg "OWASP AllDayDevops Riverbed Cluj-Napoca")
+
+OWASP Cluj-Napoca - the biggest Cybersecurity Community in the city - in partnership with Riverbed Cluj - a Leader in network performance monitoring, application performance management, and (software-defined) wide area networks - will host the only Viewing Party for All Day DevOps in Cluj, which is a 24h marathon for DevOps, DevSecOps and Cloud-related speaking sessions broadcasted for free. We will most likely follow the DevSecOps track, but we're flexible ;)
+
+5:45pm: Registration and access;
+6:00pm: Start viewing session on selected Track;
+7:30pm: Break, snacks and networking;
+8:00pm: Continue viewing session;
+9:30pm: Networking and drinks;
+10:00pm: Closing.
+
+More info about the event can be found here: https://www.alldaydevops.com/
+
+Google Maps: https://goo.gl/maps/D8g3Xz5o4CQB8DSm6
+
+When? Wednesday, 6 November - starting 5:45pm
+Where? Advancity Building, 1st Floor - ask at reception.
+Strada Someșului 30 - enter from Someșului street, near Scala Center.
+
+# Past events
 
 ## 16th - OWASP Cluj-Napoca members meeting: 18th of April 2019
 
@@ -104,8 +127,6 @@ POWERED BY Paddy Power Betfair Romania
 Joi, 18 Aprilie - ora 18:00
 
 The Office, etaj 4 Bd. 21 Decembrie nr. 77
-
-# Past events
 
 ## 15th - OWASP Cluj-Napoca members meeting: 31st of Jan 2019
 
