@@ -9,7 +9,6 @@ region: Europe
 
 
 ---
-__NOTOC__
 
 # Welcome
 
