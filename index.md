@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Cluj
 level: 0
-
+meetup-group: OWASP-Cluj
 region: Europe
 
 
@@ -18,23 +18,13 @@ region: Europe
 
 Follow us on [Twitter.](https://twitter.com/OWASPCluj)
 Follow us on
-[Meetup.](http://www.meetup.com/OWASP-Cluj-Napoca-Security-Meetup/)
+[Meetup.](https://www.meetup.com/OWASP-Cluj/)
 OWASP Cluj-Napoca Chapter meetings / events are free and open.
 Cluj-Napoca benefits from a strong software development community and
 application security is one vital aspect to be taken into consideration.
 Everyone is welcome to join our chapter meetings, members and
 non-members.
 
-The Chapter Leader is [Ovidiu Cical](User:Ovidiu.cical "wikilink") -
-ovidiu dot cical @ owasp dot org
-
-The Chapter Board Members are: [Cristian
-Serban](mailto:cristian@appsec.ro), [Lucian
-Suta](mailto:lucisan@mac.com), Adrian Beleanu (Education), Robert
-Suciaghi (Education), Stefan Farr (Education), Radu A. Munteanu
-(PR/Marketing, Events & Conferences), Tudor Blaga (Education), [Marius
-Corici](mailto:marius@ctf365.com) (Education), [Lucian
-Corlan](mailto:lucian.corlan@owasp.org).
 
 <li>
 
@@ -52,10 +42,6 @@ You want to present at one of our meetings / events (please read the
 
 <li>
 
-In case you have any questions about the OWASP Cluj-Napoca Chapter, send
-an email to [Ovidiu Cical](User:Ovidiu.cical "wikilink"), [Cristian
-Serban](mailto:cristian@appsec.ro) or [Lucian
-Suta](mailto:lucisan@mac.com)
 
 </li>
 
@@ -65,7 +51,8 @@ Events](https://www.owasp.org/index.php/Cluj#tab=Upcoming_events)\!
 
 # Recent events
 
-[Please see our Meetup page for more details and to register as attendee](http://www.meetup.com/OWASP-Cluj-Napoca-Security-Meetup/?scroll=true)
+[Please see our Meetup page for more details and to register as attendee](https://www.meetup.com/OWASP-Cluj/)
+
 
 ## OWASP + Riverbed - All Day DevOps - Viewing Party
 
@@ -653,7 +640,6 @@ All information about becoming a member/sponsor can be found
 
 ## Chapter Supporters
 
-<b>Chapter Supporters</b>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Europe](Category:Europe "wikilink")
+
+
