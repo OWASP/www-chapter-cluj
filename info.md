@@ -2,4 +2,4 @@
 * Chapter Region
 
 ### Social Links
-# [NEW Meetup](https://www.meetup.com/owasp-cluj-napoca-chapter/)
+* [Meetup](https://www.meetup.com/owasp-cluj-napoca-chapter/)
