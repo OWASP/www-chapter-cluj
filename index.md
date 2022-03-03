@@ -17,7 +17,7 @@ region: Europe
 
 
 Follow us on [Twitter.](https://twitter.com/OWASPCluj)
-Follow us on [Meetup.](https://www.meetup.com/OWASP-Cluj/)
+Follow us on [Meetup.](https://www.meetup.com/owasp-cluj-napoca-chapter/)
 
 OWASP Cluj-Napoca Chapter meetings / events are free and open.
 Cluj-Napoca benefits from a strong software development community and application security is one vital aspect to be taken into consideration.
