@@ -1,3 +1,3 @@
 ### Leaders
-* [Robert Suciaghi](mailto:szrobi2000@gmail.com)
-* [Cristian Serban](mailto:scrissti@gmail.com)
+* [Robert Suciaghi](mailto:robert.suciaghi@owasp.org)
+* [Cristian Serban](mailto:cristian.serban@owasp.org)
