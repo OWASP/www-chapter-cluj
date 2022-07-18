@@ -11,10 +11,10 @@ region: Europe
 
 <h1 align="center">
   <br>
-  <a href="https://nuclei.projectdiscovery.io"><img src="../../forks/www-chapter-cluj/assets/images/owasp_logo.png" alt="OWASP"></a>
+  <img src="assets/images/owasp_logo.png" alt="OWASP">
 </h1>
 
-<h2 align="center">Welcome to the OWASP Cluj-Napoca Chapter Homepage</h4>
+<h2 align="center">Welcome to the OWASP Cluj-Napoca Chapter Homepage</h2>
 
 ## About
 
@@ -42,18 +42,8 @@ and then contact our chapter [leaders](leaders.md) with details of what OWASP Pr
 
 ## Past and Upcoming events:
 Please check our [Meetup](https://www.meetup.com/owasp-cluj-napoca-chapter) group.
-<!--
-TODO
-For details please check Upcoming Event:
-{% include chapter_events.html group=page.meetup-group %}
--->
-
 
 ## Connect with us and be part of the community!
 * chat with us on the `#chapter-cluj-napoca` [Slack](https://owasp.slack.com) channel
 * join our [Meetup](https://www.meetup.com/owasp-cluj-napoca-chapter) group
 * follow us on [Twitter](https://twitter.com/OWASPCluj)
-
-<!-- TODO mailing list must be created first
-[Click here to join our mailing list.](https://groups.google.com/a/owasp.org/forum/#!overview)
--->
