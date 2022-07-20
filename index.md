@@ -9,12 +9,7 @@ region: Europe
 
 ---
 
-<h1 align="center">
-  <br>
-  <a href="https://nuclei.projectdiscovery.io"><img src="../../forks/www-chapter-cluj/assets/images/owasp_logo.png" alt="OWASP"></a>
-</h1>
-
-<h2 align="center">Welcome to the OWASP Cluj-Napoca Chapter Homepage</h4>
+## Welcome to the OWASP Cluj-Napoca Chapter Homepage
 
 ## About
 
