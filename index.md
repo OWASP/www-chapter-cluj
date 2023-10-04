@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Cluj-Napoca
 level: 0
 meetup-group: owasp-cluj-napoca-chapter
+country: Romania
 region: Europe
 
 
@@ -18,7 +19,7 @@ we've created a community where people interested in information security can me
 
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve software security.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve software security.
 All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in application security.
 This chapter is led by local [leaders](leaders.md) in accordance with the [OWASP Chapter Policy](https://owasp.org/www-policy/operational/chapters).
 
